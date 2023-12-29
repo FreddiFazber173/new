@@ -1,1 +1,1 @@
-print("Hello codium!")
+print("Hello world!")
